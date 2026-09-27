@@ -1,0 +1,104 @@
+{
+  "slug": "airfryerclear",
+  "box": 17,
+  "date": "2026-10-10",
+  "title": "AirFryerClear",
+  "question": "How does an air fryer work?",
+  "hook": "An air fryer never fries. It is a tiny, ferocious fan oven. Take one apart in 3D, race a potato cube in fast and still air, watch a chip's surface sit at 100 °C until it dries and browns, and see why a crowded basket cooks unevenly.",
+  "thumbText": "HOW AN AIR FRYER WORKS",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "air fryer",
+    "convection",
+    "heat transfer",
+    "Maillard reaction",
+    "cooking",
+    "kitchen science",
+    "thermostat",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A heater, a fan and a basket",
+      "text": "An air fryer is a small convection oven. A spiral heating element of about 1,500 W sits in the lid, with a fan above it. The food sits in a basket with a mesh or perforated floor, inside a pan that slides out like a drawer."
+    },
+    {
+      "title": "Moving air hands over heat fast",
+      "text": "Heat flows into food as q = h × A × ΔT. In still air the heat-transfer coefficient h is only about 5 to 25 W/m²K; a strong fan lifts it several times over by scrubbing away the lazy boundary layer of air on the food. So the same 180 °C cooks much faster."
+    },
+    {
+      "title": "Dry first, then brown",
+      "text": "A wet surface is stuck near 100 °C, because boiling water soaks up 2,257 kJ per kilogram. Once the outside dries into a crust it heats past 140 °C, where the Maillard reaction browns it and makes flavour. Cook to golden, not dark, to keep acrylamide low."
+    },
+    {
+      "title": "Oil versus air",
+      "text": "Deep-fat frying uses oil, which hands over heat far better (h about 250 to 500 W/m²K) but soaks into chips, leaving them about 10 to 15% fat. In an air fryer the only fat is the spoonful you add, so chips end up with a few percent."
+    },
+    {
+      "title": "Let the air through",
+      "text": "The fan throws air down the sides of the pan; a star-shaped baffle turns it up through the basket and the food. Pile chips too deep and the air slows and can't reach the middle, so shake the basket halfway."
+    },
+    {
+      "title": "Click on, click off",
+      "text": "A thermostat, a bimetal disc or an NTC sensor with a relay, switches the element fully on and off around the set point. The small cooking space preheats in about 3 minutes, so a batch of chips uses roughly half the electricity of a big oven."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Convection",
+      "def": "Heat carried by a moving fluid, such as air or oil. A fan makes it forced convection."
+    },
+    {
+      "term": "Heat-transfer coefficient (h)",
+      "def": "How many watts flow into each square metre of surface for each degree of temperature difference."
+    },
+    {
+      "term": "Boundary layer",
+      "def": "The thin skin of slow air next to a surface that slows heat flow. Fast air thins it."
+    },
+    {
+      "term": "Latent heat",
+      "def": "Energy that turns a liquid into a gas without warming it: 2,257 kJ per kilogram for water at 100 °C."
+    },
+    {
+      "term": "Maillard reaction",
+      "def": "Reactions between sugars and amino acids above about 140 °C that brown food and create flavour."
+    },
+    {
+      "term": "Acrylamide",
+      "def": "A chemical that forms when starchy food is cooked hot and dark. Food agencies advise cooking to golden."
+    },
+    {
+      "term": "Thermostat",
+      "def": "A switch that turns the heater on and off to hold a set temperature."
+    },
+    {
+      "term": "NTC thermistor",
+      "def": "A sensor whose electrical resistance falls as it gets hotter, used to measure temperature."
+    },
+    {
+      "term": "Duty cycle",
+      "def": "The share of time a heater is switched on."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "airfryerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
