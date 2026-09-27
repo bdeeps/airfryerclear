@@ -6,7 +6,7 @@
 
 <p align="center"><b>How does an air fryer work?</b><br>An air fryer never fries. It is a tiny, ferocious fan oven. Take one apart in 3D, race a potato cube in fast and still air, watch a chip's surface sit at 100 °C until it dries and browns, and see why a crowded basket cooks unevenly.</p>
 
-<p align="center"><a href="https://glassbox-production-fd52.up.railway.app/airfryerclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/">Read the 60-second explainer</a> &nbsp;·&nbsp; <a href="https://glassbox-production-fd52.up.railway.app/airfryerclear/glassbox/reel.mp4">Watch the 40-second video</a></p>
+<p align="center"><a href="https://glassbox-production-fd52.up.railway.app/airfryerclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/">Read the 60-second explainer</a></p>
 
 <p align="center">
   <a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/"><img alt="Glassbox No. 017" src="https://img.shields.io/badge/Glassbox-No.%20017-8ef0ff"></a>
@@ -64,12 +64,9 @@ Made with the Glassbox studio from this box's storyboard (`window.glassbox.direc
 
 | File | What | Size |
 |---|---|---|
-| [`glassbox/reel.mp4`](https://glassbox-production-fd52.up.railway.app/airfryerclear/glassbox/reel.mp4) | Reel / Short, with captions and soundtrack | 1080×1920 |
-| [`glassbox/video.mp4`](https://glassbox-production-fd52.up.railway.app/airfryerclear/glassbox/video.mp4) | YouTube video, with captions and soundtrack | 1920×1080 |
 | `glassbox/slide-1…10.jpg` | Instagram carousel | 1080×1350 |
 | `glassbox/thumb.jpg` | YouTube thumbnail | 1280×720 |
 | `glassbox/cover.jpg` | Share card and repo social preview | 1200×630 |
-| [`glassbox/history-reel.mp4`](https://glassbox-production-fd52.up.railway.app/airfryerclear/glassbox/history-reel.mp4) | “History in 10 moments” Reel / Short | 1080×1920 |
 | `glassbox/history-slide-*.jpg` | History carousel | 1080×1350 |
 | `glassbox/post.json` | Post copy and schedule used by the publish kit | |
 
