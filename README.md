@@ -1,16 +1,16 @@
 <!-- glassbox:start -->
 <!-- Generated from glassbox.json by the Glassbox hub (npm run readme -- airfryerclear). Edit glassbox.json, not this block. -->
-<p align="center"><a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/"><img src="glassbox/cover.jpg" alt="How does an air fryer work?" width="100%"></a></p>
+<p align="center"><a href="https://glassbox.how/e/airfryerclear/"><img src="glassbox/cover.jpg" alt="How does an air fryer work?" width="100%"></a></p>
 
 <h1 align="center">AirFryerClear</h1>
 
 <p align="center"><b>How does an air fryer work?</b><br>An air fryer never fries. It is a tiny, ferocious fan oven. Take one apart in 3D, race a potato cube in fast and still air, watch a chip's surface sit at 100 °C until it dries and browns, and see why a crowded basket cooks unevenly.</p>
 
-<p align="center"><a href="https://glassbox-production-fd52.up.railway.app/airfryerclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/">Read the 60-second explainer</a></p>
+<p align="center"><a href="https://glassbox.how/airfryerclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox.how/e/airfryerclear/">Read the 60-second explainer</a></p>
 
 <p align="center">
-  <a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/"><img alt="Glassbox No. 017" src="https://img.shields.io/badge/Glassbox-No.%20017-8ef0ff"></a>
-  <a href="https://glassbox-production-fd52.up.railway.app/e/airfryerclear/"><img alt="Physics" src="https://img.shields.io/badge/field-Physics-7aa2ff"></a>
+  <a href="https://glassbox.how/e/airfryerclear/"><img alt="Glassbox No. 017" src="https://img.shields.io/badge/Glassbox-No.%20017-8ef0ff"></a>
+  <a href="https://glassbox.how/e/airfryerclear/"><img alt="Physics" src="https://img.shields.io/badge/field-Physics-7aa2ff"></a>
   <a href="LICENSE"><img alt="Code: MIT" src="https://img.shields.io/badge/code-MIT-3fb950"></a>
   <a href="LICENSE-CONTENT.md"><img alt="Content: CC BY 4.0" src="https://img.shields.io/badge/content-CC%20BY%204.0-ef9421"></a>
   <a href="#privacy"><img alt="Privacy: explained" src="https://img.shields.io/badge/privacy-explained-555"></a>
@@ -52,13 +52,13 @@
 - **2010** · The Airfryer is launched in Berlin (Philips and Fred van der Weij, IFA consumer electronics fair, Berlin, Germany)
 - **2020** · The lockdown boom (Home cooks in the United States and beyond, United States)
 
-The full story, with 29 moments, charts, people and 52 sources: [glassbox.how/e/airfryerclear/history](https://glassbox-production-fd52.up.railway.app/e/airfryerclear/history/). The data lives in [`history.json`](history.json).
+The full story, with 29 moments, charts, people and 52 sources: [glassbox.how/e/airfryerclear/history](https://glassbox.how/e/airfryerclear/history/). The data lives in [`history.json`](history.json).
 
 ## Video and slides
 
 Made with the Glassbox studio from this box's storyboard (`window.glassbox.director`). Free to reuse under CC BY 4.0.
 
-<a href="https://glassbox-production-fd52.up.railway.app/airfryerclear/glassbox/video.mp4"><img src="glassbox/thumb.jpg" alt="Video: How does an air fryer work?" width="100%"></a>
+<a href="https://glassbox.how/airfryerclear/glassbox/video.mp4"><img src="glassbox/thumb.jpg" alt="Video: How does an air fryer work?" width="100%"></a>
 
 <p><a href="glassbox/slide-1.jpg"><img src="glassbox/slide-1.jpg" alt="Carousel slide-1" width="24%"></a> <a href="glassbox/slide-2.jpg"><img src="glassbox/slide-2.jpg" alt="Carousel slide-2" width="24%"></a> <a href="glassbox/slide-3.jpg"><img src="glassbox/slide-3.jpg" alt="Carousel slide-3" width="24%"></a> <a href="glassbox/slide-4.jpg"><img src="glassbox/slide-4.jpg" alt="Carousel slide-4" width="24%"></a></p>
 
@@ -80,14 +80,14 @@ It remembers a few things **in your own browser only**, and never sends them any
 |---|---|
 | `airfryerclear.v1` | Which chapters you have opened, your best quiz scores, and sound on or off. |
 
-Exactly what each one sees is at [glassbox.how/privacy](https://glassbox-production-fd52.up.railway.app/privacy/).
+Exactly what each one sees is at [glassbox.how/privacy](https://glassbox.how/privacy/).
 
 ## Licences
 
 - **Code:** [MIT](LICENSE). Use it, change it, ship it.
 - **Explanations, text, images and videos** (`glassbox.json`, `glassbox/`): [CC BY 4.0](LICENSE-CONTENT.md). Credit “Glassbox, glassbox.how/e/airfryerclear”.
 - **Third-party parts** keep their own licences: [three.js](https://threejs.org) (MIT), [Geist, Instrument Serif](https://openfontlicense.org) (SIL OFL 1.1).
-- The Glassbox name and logo aren't covered by either licence. See the [terms](https://glassbox-production-fd52.up.railway.app/terms/).
+- The Glassbox name and logo aren't covered by either licence. See the [terms](https://glassbox.how/terms/).
 
 Found a mistake? [Open an issue](https://github.com/bdeeps/airfryerclear/issues). Corrections happen in public.
 <!-- glassbox:end -->
